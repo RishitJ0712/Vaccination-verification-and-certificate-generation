@@ -6,15 +6,6 @@ It provides various Features for the three type of users:
 2. Vaccinator: Login with username and password and add new vaccination records (ID, Name, Vaccine, Dose, Date)
 3. Client: verify vaccination status and generate vaccination certificates
 
-Folder Structure:
-E-Vaccine-System/
-├── main.py
-└── modules/
-├── init.py
-├── admin_module.py
-├── client_module.py
-├── vaccinator_module.py
-└── database_module.py
 
 Installation:
 1.	Click on the "Code" button and download the repository as a ZIP file.
@@ -37,6 +28,6 @@ Dependencies:
 ⦁	pillow
 
 Notes:
-⦁	All IDs are stored as strings to ensure correct verification
-⦁	Admin can manage both vaccination data and vaccinator accounts securely
+1.	All IDs are stored as strings to ensure correct verification
+2.	Admin can manage both vaccination data and vaccinator accounts securely
 ⦁	Certificates are generated as simple text files
