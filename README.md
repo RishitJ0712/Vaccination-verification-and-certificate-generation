@@ -1,10 +1,10 @@
 Co-Vaccine E-Verification & Certification
 Overview:
 The E-Vaccine Verification System is a Python console application designed to manage vaccination data efficiently. It supports three types of users: Admin, Vaccinator, and Client. Admin can manage vaccinators, view vaccination records and statistics, and delete records. Vaccinators can log in to add new vaccination records. Clients can verify their vaccination status and generate vaccination certificates.
-It provides various Features for the three type of users
-Admin:- Login with credentials (username: admin, password: ADMIN), admin manages vaccinators, view vaccination records and statistics, delete records.
-Vaccinator: Login with username and password and add new vaccination records (ID, Name, Vaccine, Dose, Date)
-Client: verify vaccination status and generate vaccination certificates
+It provides various Features for the three type of users:
+1.Admin:- Login with credentials (username: admin, password: ADMIN), admin manages vaccinators, view vaccination records and statistics, delete records.
+2.Vaccinator: Login with username and password and add new vaccination records (ID, Name, Vaccine, Dose, Date)
+3.Client: verify vaccination status and generate vaccination certificates
 
 Folder Structure:
 E-Vaccine-System/
